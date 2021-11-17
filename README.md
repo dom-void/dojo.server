@@ -1,2 +1,2 @@
 # dojo.server
-Server training dojo
+Server in Node JS training dojo
